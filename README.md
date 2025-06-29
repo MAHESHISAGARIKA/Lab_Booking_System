@@ -85,4 +85,4 @@ Includes the following main tables:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/lab-booking-system.git
+   git clone https://github.com/MAHESHISAGARIKA/lab-booking-system.git
